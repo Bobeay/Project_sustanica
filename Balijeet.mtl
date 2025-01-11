@@ -1,0 +1,28 @@
+newmtl Baljeet2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Baljeet2_diff.png
+map_Kd Baljeet2_diff.png
+map_d Baljeet2_diff.png
+
+newmtl Baljeet1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Baljeet1_diff.png
+map_Kd Baljeet1_diff.png
+map_d Baljeet1_diff.png
+
